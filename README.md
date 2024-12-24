@@ -1,19 +1,14 @@
-# Mastering JavaScript Unit Testing
+# JavaScript 單元測試
 
-This repository contains all of the examples and exercises for my JavaScript testing course.
+此倉庫包含了我 JavaScript 測試課程的所有示例和練習。
 
-* Understand the fundamentals of unit testing and its significance in JavaScript development.
-* Master the setup and usage of Vitest for effective JavaScript testing.
-* Discover the best practices for writing clean, maintainable, and trustworthy tests.
-* Learn various techniques to run and debug tests effectively.
-* Explore VSCode shortcuts to boost coding productivity.
-* Master working with matchers and crafting precise, effective assertions.
-* Practice positive, negative, and boundary testing to cover a wide range of test scenarios.
-* Break dependencies in your tests with mocks.
-* Improve code quality with static analysis, including TypeScript, ESLint, and Prettier.
-* Automate code quality checks with Husky to maintain high coding standards.
-
-
-You can find the full course at: 
-
-https://codewithmosh.com
+* 了解單元測試的基本原理及其在 JavaScript 開發中的重要性。
+* 掌握 Vitest 的設置和使用，以進行有效的 JavaScript 測試。
+* 探索編寫乾淨、可維護且可靠的測試的最佳實踐。
+* 學習各種技術來有效地運行和調試測試。
+* 探索 VSCode 快捷鍵以提高編碼效率。
+* 掌握使用匹配器並編寫精確有效的斷言。
+* 練習正面、負面和邊界測試，以涵蓋廣泛的測試場景。
+* 使用模擬來打破測試中的依賴關係。
+* 通過靜態分析（包括 TypeScript、ESLint 和 Prettier）提高代碼質量。
+* 使用 Husky 自動化代碼質量檢查，以保持高標準的編碼質量。
